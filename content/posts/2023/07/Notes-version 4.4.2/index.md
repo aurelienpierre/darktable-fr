@@ -3,12 +3,11 @@ title: "Version corrective 4.4.2"
 aliases:
   - "darktable-4-4-2"
 date: "2023-07-22"
-featured: true
+featured: false
 categories:
   - "actualites"
-  - "featured"
 tags:
-  - "featured"
+  - "Actualités
 
 coverImage: "images/dt_logo-4.4.2.png"
 ---
