@@ -5,9 +5,9 @@ aliases:
 date: "2022-12-21"
 featured: false
 categories:
-  - "actualites"
+  - "Actualites"
 tags:
-  - "actualites"
+  - "Actualites"
 coverImage: "darktable-4.2.0.png"
 ---
 La version 4.2.0 est sortie aujourd'hui.
