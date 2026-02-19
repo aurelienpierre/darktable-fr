@@ -5,10 +5,9 @@ aliases:
 date: "2023-06-21"
 featured: true
 categories:
-  - "actualites"
-  - "featured"
+  - "Actualités"
 tags:
-  - "featured"
+  - "Actualités"
 authors:
   - "jipivy"
 coverImage: "images/dt_logo-4.4.0.png"
