@@ -1,12 +1,11 @@
 ---
 title: "Sortie de darktable 3.8.1"
 date: "2022-02-11"
-featured: true
+featured: false
 categories: 
-  - "actualites"
-  - "featured"
+  - "Actualités"
 tags: 
-  - "featured"
+  - "Actualités"
 coverImage: "images/dt-logo-3.8.1.png"
 ---
 
