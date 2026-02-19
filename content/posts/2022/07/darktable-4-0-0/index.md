@@ -3,12 +3,10 @@ title: "darktable 4.0.0"
 aliases:
   - "Darktable-4-0-0"
 date: "2022-07-03"
-featured: true
+featured: false
 categories:
   - "actualites"
-  - "featured"
 tags:
-  - "featured"
   - "A dabble in photography"
 coverImage: "darktable-4-0-0.png"
 ---
