@@ -3,15 +3,13 @@ title: "Version 4.2.1"
 aliases:
   - "Darktable-4-2-1"
 date: "2023-02-23"
-featured: true
+featured: false
 categories:
-  - "actualites"
-  - "featured"
+  - "Actualités"
 tags:
-  - "featured"
-  -  "news"
+  - "Actualités"
 author:
-  - "jpv"
+  - "jipivy"
 
 coverImage: "images/dt_logo-4.2.1.png"
 ---
