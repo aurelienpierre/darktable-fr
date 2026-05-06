@@ -9,6 +9,8 @@ categories:
 tags: 
   - "Aurélien Pierre"
   - "tutoriel"
+authors:
+  - "Aurélien Pierre"
 ---
 
 Poursuivant mon travail sur la gestion des hautes (et moins hautes) plages dynamiques qui rendaient la couleur particulièrement difficile à gérer sous darktable dans les situations de fort contraste, mon module égaliseur de tons a été fusionné dans la version de développement de daktable dimanche, et filmique v3 aujourd'hui.

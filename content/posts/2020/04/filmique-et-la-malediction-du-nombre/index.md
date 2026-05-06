@@ -9,6 +9,8 @@ categories:
 tags:
   - "Aurélien Pierre"
   - "tutoriel"
+authors:
+  - "Aurélien Pierre"
 ---
 
 ## Introduction

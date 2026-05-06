@@ -11,6 +11,8 @@ tags:
   - "couleur"
   - "hdr"
   - "tutoriel"
+authors:
+  - "Aurélien Pierre"
 ---
 
 darktable est lentement en train de converger vers un workflow RGB relatif à la scène. Pourquoi ? Qu'est ce que ça implique ? Comment cela change-t-il l'utilisation ? Réponses ici…

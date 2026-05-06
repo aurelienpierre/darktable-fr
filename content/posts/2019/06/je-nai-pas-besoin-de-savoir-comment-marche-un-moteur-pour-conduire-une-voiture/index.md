@@ -3,6 +3,8 @@ title: "Je n'ai pas besoin de savoir comment marche un moteur pour conduire une 
 date: "2019-06-16"
 categories: 
   - "actualites"
+authors:
+  - "Aurélien Pierre"
 ---
 
 Je suis allé au _Libre Graphics Meeting_, début juin, à Saarbruecken, pour rencontrer les développeurs de darktable, en particulier Johannes Hanika, son fondateur, et Tobias Ellinghaus, son deuxième plus gros contributeur. On a discuté de l'avenir de darktable, des orientations à donner et des choses à corriger. On a, aussi, discuté des utilisateurs, de leurs attentes, de leurs priorités.

@@ -8,6 +8,8 @@ categories:
 tags:
   - "Aurélien Pierre"
   - "tutoriel"
+authors:
+  - "Aurélien Pierre"
 ---
 
 La photo brute (RAW), c'est un enregistrement direct et sans traitement de ce que le capteur de l'appareil photo a « vu ». Il y a beaucoup trop de croyances qui circulent sur les propriétés supposées de cette « image latente », je vous propose de casser du mythe à la pioche.

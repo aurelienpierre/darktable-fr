@@ -8,6 +8,8 @@ categories:
 tags:
   - "tutoriel"
   - "Aurélien Pierre"
+authors:
+  - "Aurélien Pierre"
 ---
 
 Profiler un capteur (souvent improprement appelé « calibrer », mais soyons exacts) consiste à prendre en photo une mire d'étalonnage puis à établir, au moyen d'un logiciel de gestion des couleurs (principalement ArgyllCMS), une correction colorimétrique qui permet de compenser sa déviation.

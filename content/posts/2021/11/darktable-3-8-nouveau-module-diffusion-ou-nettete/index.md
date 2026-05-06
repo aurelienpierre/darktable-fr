@@ -8,6 +8,8 @@ categories:
 tags:
   - "tutoriel"
   - "Aurélien Pierre"
+authors:
+  - "Aurélien Pierre"
 ---
 
 La diffusion est un procédé physique par lequel des particules se répandent dans leur environnement, en équilibrant leur concentration dans l'espace. Elle affecte aussi la lumière qui traverse un milieu matériel transparent (air humide, verre de lentille). Ses équations sont bien connues et les résoudre permet de simuler ou de retirer des flous naturels dans une image. C'est ce que permet de faire le nouveau module _diffusion ou netteté_, de façon réversible. Au programme : suppression de voile atmosphérique, défloutage d'objectif, contraste local, débruitage, flou de surface, effet Orton, effets aquarelle et reconstruction de hautes lumières.

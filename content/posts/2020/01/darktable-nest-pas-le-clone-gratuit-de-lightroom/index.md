@@ -3,6 +3,8 @@ title: "darktable n'est pas le clone gratuit de Lightroom"
 date: "2020-01-15"
 categories: 
   - "actualites"
+authors:
+  - "Aurélien Pierre"
 ---
 
 À l'occasion de la sortie de darktable 3.0, le logiciel a été présenté sur les blogs et dans la presse, à maintes reprises, comme un « équivalent » ou un « clone » de Lightroom, en version « gratuite ». Selon les versions et les affinités, il est tour à tour présenté comme le parent pauvre de ce dernier (si c'est gratuit, c'est forcément moins bien), ou comme sa première dauphine (compétition honnête compte tenu de la différence de moyens).

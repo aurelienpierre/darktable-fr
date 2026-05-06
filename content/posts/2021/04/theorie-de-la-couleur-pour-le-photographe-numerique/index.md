@@ -8,6 +8,8 @@ categories:
 tags:
   - "tutoriel"
   - "Aurélien Pierre"
+authors:
+  - "Aurélien Pierre"
 ---
 
 {{< youtube luZyu3zj1G4 >}}

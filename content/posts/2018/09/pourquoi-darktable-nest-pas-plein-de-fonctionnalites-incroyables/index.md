@@ -3,6 +3,8 @@ title: "Pourquoi darktable n'est pas plein de fonctionnalités incroyables"
 date: "2018-09-10"
 categories: 
   - "actualites"
+authors:
+  - Aurélien Pierre
 ---
 
 À l'heure actuelle, le meilleur éditeur de photos brutes de capteur, c'est à mon avis Capture One. Développé depuis environ 2005 par Phase One, fabricant d'appareils moyen-format numériques, il est remarquable par son interface particulièrement intuitive et son excellente gestion de la couleur, avec des contrôles qui peuvent être poussés très fort sans jamais donner de résultats excessifs. Depuis 5 ans, il s'est taillé une part de marché croissante chez les portraitistes, qui sont friands des teintes de peau naturelles et riches qu'ils peuvent en tirer. Plus important : Capture One n'a jamais cherché à copier Lightroom, pourtant leader sur ce marché. Par contre, à 180 $ US la licence annuelle, ça calme.

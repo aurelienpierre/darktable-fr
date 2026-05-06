@@ -3,6 +3,8 @@ title: "Acheter darktable sur un magasin d'application"
 date: "2021-07-12"
 categories: 
   - "actualites"
+authors:
+  - "Aurélien Pierre"
 ---
 
 Il a été porté à notre connaissance aujourd'hui que darktable peut s'acheter sur le magasin d'applications de Microsoft, et il est à prévoir que cette mode se propage. darktable n'est pas le premier logiciel libre de création graphique dans cette situation (Krita, Gimp, Scribus sont aussi concernés).

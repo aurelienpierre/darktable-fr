@@ -9,6 +9,8 @@ tags:
   - "Aurélien Pierre"
   - "style"
   - "tutoriel"
+authors:
+  - Aurélien Pierre
 ---
 
 Si vous avez déjà essayé de traiter une photo prise en contre-jour ou en plein soleil, vous avez déjà rencontré ce problème : le contraste est tellement violent que :

@@ -8,6 +8,8 @@ categories:
 tags: 
   - "tutoriel"
   - "Aurélien Pierre"
+authors:
+  - "Aurélien Pierre"
 ---
 
 De l'eau a coulé depuis mon précédent [article sur la plage dynamique](http://darktable.fr/2018/08/recuperer-la-plage-dynamique-sous-darktable/).
