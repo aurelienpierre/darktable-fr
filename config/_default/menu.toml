@@ -2,17 +2,7 @@
   name = "Blog"
   identifier = "blog"
   weight = 10
-  pre = '<i class="fas fa-fw fa-chevron-circle-down"></i>'
-[[main]]
-  name = "Forum"
-  identifier = "forum"
-  url = "https://forums.darktable.fr"
-  weight = 20   
-[[main]]
-  name = "Discussions"
-  identifier = "discussions"
-  url = "https://app.element.io/#/room/#darktable.fr:matrix.org"
-  weight = 30  
+  pre = '<i class="fas fa-fw fa-chevron-circle-down"></i>' 
 [[main]]
   name = "Documentation"
   identifier = "documentation"
@@ -24,8 +14,3 @@
   parent = "documentation"
   url = "https://docs.darktable.org/usermanual/stable/fr/"
   weight = 1  
-[[main]]
-  name = "Télécharger"
-  identifier = "telecharger"
-  weight = 60
-  url = "https://www.darktable.org/install/"

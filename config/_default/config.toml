@@ -2,16 +2,12 @@ baseURL = "https://darktable.fr"
 title = "darktable FR"
 theme = "hugo-theme-bootstrap" # install via git submodule
 # theme = "github.com/razonyang/hugo-theme-bootstrap" # install via hugo module
-copyright = "Copyright © 2016-{year} darktable.fr - All Rights Reserved."
+copyright = "Copyright © 2016-2023 darktable.fr - All Rights Reserved."
 
 # Multilingual mode
 defaultContentLanguage = "fr"
 #defaultContentLanguageInSubdir = true # If you use only one language comment this option
 disableLanguages = ["en", "zh-cn" ,"zh-tw"] # Uncomment in order to disable one or more language
-
-# Pagination
-paginate = 5
-# paginatePath = "page"
 
 # Disqus
 # disqusShortname = "yourdiscussshortname"
