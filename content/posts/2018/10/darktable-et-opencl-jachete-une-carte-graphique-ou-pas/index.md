@@ -10,6 +10,8 @@ tags:
   - "performance"
   - "tutoriel"
   - "Aurélien Pierre"
+authors:
+  - "Aurélien Pierre"
 ---
 
 Une des questions les plus posées, et à juste titre : est-ce que ça vaut la peine d'investir dans une carte graphique pour utiliser darktable ? Cela fait 1 mois que je programme, teste (et fait crasher) OpenCL, voici donc mes observations, de l'intérieur du code.
